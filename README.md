@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shan-D
 - 👀 I’m interested in coding & gaming
-- 🌱 I’m currently learning in univercity
+- 🌱 I’m currently learning in university
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me @Shan123 on Discord
+- 📫 How to reach me @_shanwastaken_ on Discord
 
 <!---
 Shan-D/Shan-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
